@@ -260,6 +260,9 @@ Dengan konteks dan deskripsi yang ada, buatkan rancangan/wireframe sederhana unt
 ## Pengumpulan Jawaban
 
 Semua jawaban dapat di-push ke repository GitHub pribadi, lalu link repository-nya diinformasikan ke nomor **+62 853-2799-6377** (Idin).
+Jika ada pertanyaan terkait soal dapat menghubungi nomor yang tercantum yaa..
+
+Good Luck :))
 
 **Batas Pengumpulan:** 18 Agustus 2026
 
