@@ -261,8 +261,10 @@ Dengan konteks dan deskripsi yang ada, buatkan rancangan/wireframe sederhana unt
 
 Semua jawaban dapat di-push ke repository GitHub pribadi, lalu link repository-nya diinformasikan ke nomor **+62 853-2799-6377** (Idin).
 
+**Batas Pengumpulan:** 18 Agustus 2026
+
 ---
 
 **Referensi:** dalam pembuatan flowchart / ERD / wireframe bisa menggunakan <https://www.drawio.com/> atau tools sejenis.
 
-**Diperbarui:** 12 Agustus 2026
+**Diperbarui:** 13 Agustus 2026
